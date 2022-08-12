@@ -1,0 +1,7 @@
+Summary
+
+Encapsulation is preventing access to a data outside the class
+
+Adding a __ in front of a attribute makes it private
+
+Getter and Setter methods should be used to access a private attribute

@@ -1,0 +1,5 @@
+f = open("name.txt", "w")
+f.write("abhishek pravin kuntare")
+f.write("abhishek pravin kuntare \n")
+f.write("New one")
+f.close()
